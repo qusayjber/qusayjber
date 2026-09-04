@@ -131,11 +131,18 @@ https://github.com/qusayjber/digital-history
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qusayjber&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Qusay's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusayjber&layout=compact&hide_border=true" height="170" alt="Top Languages">
+  <a href="https://github.com/qusayjber">
+    <img src="https://img.shields.io/github/repos/qusayjber?style=for-the-badge&label=Repositories" alt="Repositories">
+  </a>
+  <a href="https://github.com/qusayjber">
+    <img src="https://img.shields.io/github/followers/qusayjber?style=for-the-badge&label=Followers" alt="Followers">
+  </a>
+  <a href="https://github.com/qusayjber">
+    <img src="https://img.shields.io/github/stars/qusayjber?style=for-the-badge&label=Stars" alt="Stars">
+  </a>
 </p>
 
 
