@@ -17,47 +17,32 @@ Software Developer • Computer Science • Web & Backend
 
 ## 👨‍💻 About Me
 
-I'm a Software Developer with a strong foundation in Computer Science and practical experience building web, backend, desktop, mobile, and database-driven applications.
+I'm a Software Developer with a strong foundation in Computer Science and hands-on experience building web, backend, desktop, mobile, and database-driven applications.
 
-I enjoy understanding how software works from the application layer down to systems, networking, databases, and operating systems.
+I enjoy understanding how software works beyond the application layer, including databases, operating systems, computer networks, software architecture, and distributed systems.
 
-I'm particularly interested in:
-
-* Software Architecture & System Design
-* Backend Engineering
-* Distributed Systems
-* Cybersecurity
-* Artificial Intelligence
-* Performance Engineering
-
-I learn by building, experimenting, and going beyond the surface level of a technology.
+I'm always interested in learning new technologies and turning ideas into practical projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-### Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,php,javascript,typescript,kotlin,dart,bash" />
 </p>
 
-### Frontend
+### Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express" />
 </p>
 
-### Backend
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,java,spring" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql,mongodb,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,java,spring,mysql,mariadb,postgresql,mongodb,sqlite,redis" />
 </p>
 
 ### Mobile & Desktop
@@ -69,46 +54,31 @@ I learn by building, experimenting, and going beyond the surface level of a tech
 ### Tools & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,nginx,cloudflare,vscode,idea,eclipse,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,nginx,cloudflare,vscode,idea,eclipse,androidstudio,postman" />
 </p>
 
 ---
 
-## 🧠 Engineering Interests
+## 🧠 Areas of Interest
 
-```text
-Software Development
-├── Web Development
-├── Backend Engineering
-├── Database Systems
-├── Software Architecture
-├── System Design
-├── Distributed Systems
-├── Operating Systems
-├── Computer Networks
-├── Cybersecurity
-├── Artificial Intelligence
-└── Performance Engineering
-```
+* Software Engineering
+* Backend Development
+* Web Development
+* Database Systems
+* Software Architecture
+* System Design
+* Distributed Systems
+* Operating Systems
+* Computer Networks
+* Cybersecurity
+* Artificial Intelligence
+* Performance Engineering
 
 ---
 
-## 🚀 What I Build
+## 📚 Computer Science
 
-* Web applications
-* REST APIs & backend systems
-* Database-driven applications
-* Desktop applications
-* Android & Flutter applications
-* Developer tools
-* Management systems
-* Experimental and research-oriented projects
-
----
-
-## 📚 Computer Science Foundations
-
-My background includes:
+My Computer Science background includes:
 
 * Data Structures & Algorithms
 * Object-Oriented Programming
@@ -123,45 +93,59 @@ My background includes:
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Currently Learning & Exploring
 
-* Advanced React & Next.js
-* Node.js backend architecture
+* React
+* Next.js
+* Node.js
+* TypeScript
 * Spring Boot
-* Distributed systems
-* Cloud & DevOps
+* Docker & Kubernetes
+* Distributed Systems
 * AI Engineering
 * Cybersecurity
-* Performance optimization
+* Cloud Technologies
 
 ---
 
-## 📌 Featured Project
+## 🚀 Projects
+
+I build different types of software, including:
+
+* Web applications
+* REST APIs
+* Database-driven systems
+* Desktop applications
+* Android applications
+* Flutter applications
+* Developer tools
+* Management systems
+* Experimental technical projects
 
 ### 🌐 Digital History
 
-A web project exploring the history and evolution of the Internet, programming, and computing.
+A project exploring the history and evolution of the Internet, programming, and computing.
 
-🔗 **Repository:**
+**Repository:**
 https://github.com/qusayjber/digital-history
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qusayjber&show_icons=true&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusayjber&layout=compact&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=qusayjber&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="Qusay's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusayjber&layout=compact&hide_border=true" height="170" alt="Top Languages">
 </p>
 
 ---
 
-## 🎯 My Goal
+## 🎯 Goal
 
-To become a well-rounded software engineer capable of designing and building reliable systems — from user interfaces and APIs to databases, distributed systems, and infrastructure.
+To become a well-rounded software engineer capable of designing and building reliable software systems — from user interfaces and APIs to databases, infrastructure, and distributed systems.
 
 ---
 
 <p align="center">
-  <i>Build. Learn. Experiment. Repeat.</i>
+  <i>Build • Learn • Experiment • Improve</i>
 </p>
