@@ -11,9 +11,6 @@
   <a href="https://github.com/qusayjber">
     <img src="https://img.shields.io/github/stars/qusayjber?style=flat-square&label=Stars" alt="GitHub Stars">
   </a>
-  <a href="https://github.com/qusayjber/digital-history">
-    <img src="https://img.shields.io/github/stars/qusayjber/digital-history?style=flat-square&label=Digital%20History" alt="Digital History Stars">
-  </a>
 </p>
 
 ---
